@@ -1,0 +1,69 @@
+<image src="../../icon/flower.png" class="flower"></image>
+<image src="../../icon/flower.png" class="flower1"></image>
+<view class="box" style="{{boxStyle}}">
+<swiper	indicator-dots="true" indicator-color="#6F73F9" 	indicator-active-color="" autoplay="true">
+  <swiper-item>
+<text class="xixi">这是我们的作品</text>
+</swiper-item>
+<swiper-item>
+<image mode="aspectFit" class="widget__arrow" src="/icon/cm1.jpg" ></image>
+</swiper-item>
+<swiper-item>
+<image mode="aspectFit" class="widget__arrow" src="/icon/cm2.jpg" ></image>
+</swiper-item>
+<swiper-item>
+<image mode="aspectFit" class="widget__arrow"src="/icon/cm3.jpg"></image>
+</swiper-item>
+<swiper-item class="xixi">
+<text>这就是我们——</text>
+<text>\n</text>
+<text>喜欢摄影 热爱生活</text>
+</swiper-item>
+<swiper-item>
+<image class="widget__arrow" mode="widthFix" src="/icon/cm.jpg" mode="aspectFit">
+</image>
+</swiper-item>
+</swiper></view>
+<view  class="title"><text>传媒中心</text></view>
+<image class="icon" src="../../icon/开心.png"></image>
+  <text class="title2">中心定位</text>
+<text class="content" decode="{{true}}" space="{{true}}">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传媒中心拥有齐全的设备和优秀的传媒人才，面向全校，为学校、各组织提供宣传视频、后期剪辑、拍摄制作和活动记录等服务，是宣传和记录汕头大学的主力军。牢记踹网“为全校师生服务”的宗旨，活跃在学校的各种活动中，为记录校园生活贡献一份力量！
+
+
+</text>
+<image class="icon" src="../../icon/喜欢.png"></image>
+<text class="title2">工作制度</text>
+
+<text class="content" decode="{{true}}" space="{{true}}">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传媒中心努力培养一代代优秀传媒人才，不断学习和提高单反摄影、视频拍摄、后期剪辑技术。
+
+
+</text>
+<image class="icon" src="../../icon/调皮.png"></image>
+<text class="title2">成员介绍</text>
+<text class="content" decode="{{true}}" space="{{true}}">
+吴锦彬（总监）：喜欢和朋友们一起去拍照、做视频，干很多有趣有意义的事情。
+
+王凯漩（总监）：平时喜欢探店、拍照，and 睡懒觉
+
+何以防（总监）：喜欢拍照
+
+陆志桓（干事）：爱好拍照
+
+符林洁（干事）：喜欢拍照
+
+周维美（干事）：本人女，普通咸鱼干事一只。平时喜欢做除学习运动以外的事情，还喜欢打羽毛球。喜欢吃各种好吃的，看各种好看的电影，看一些脑洞大开的小说
+
+李扬（干事）：是个男生，平时喜欢女生。
+
+丁璐（干事）：在踹网传媒担任干部职务，平时喜欢解谜，但不喜欢解题，懂得都懂。
+
+汤振业（干事）：喜欢吃饭，睡觉，打游戏，还喜欢出去走走，玩玩。
+
+叶文熙（干事）：在踹网传媒部门担任干事一职，平时喜欢拍照看电影追剧。
+
+苟靖宜（干事）：喜欢打羽毛球。
+
+邓旖旎（干事）：这里是来自传媒部的邓旖旎，因为来自国际新闻与传播，大家都叫我国新！平时喜欢吃喝玩乐（bushi），有机会大家一起打游戏吧～
+</text>

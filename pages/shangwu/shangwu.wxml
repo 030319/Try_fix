@@ -1,0 +1,48 @@
+<!-- <image class="widget__arrow" mode="widthFix" src="/icon/sw.jpg" mode="aspectFill">
+</image>
+
+<view  class="title"><text>商务中心</text></view>
+<view>
+  <text class="title2">中心定位</text>
+<text class="content" decode="{{true}}" space="{{true}}">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;负责踹网的公关赞助，是与商家进行交流的桥梁。在这里你可以第一线去跟商家交流，更加直接的去接触电商，电竞等当前比较前沿的产业。
+
+
+</text>
+<text class="title2">工作制度</text>
+<text class="content" decode="{{true}}" space="{{true}}">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;赞助演练到实战谈判，给你一个模拟商业谈判精英的机会。零距离接触各种商业boss，在这里你可以第一线去跟商家交流，提高社交能力。
+</text>
+</view> -->
+
+<!-- <view><text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;</text></view> -->
+
+
+<!-- <view><text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;</text></view> -->
+
+<swiper autoplay indicator-dots="true" ><swiper-item><image class="widget__arrow" mode="widthFix" src="/icon/1.jpg" mode="aspectFill">
+</image></swiper-item>
+<swiper-item><image class="widget__arrow" mode="widthFix" src="/icon/2.jpg" mode="aspectFill">
+</image></swiper-item><swiper-item><image class="widget__arrow" mode="widthFix" src="/icon/3.jpg" mode="aspectFill">
+</image></swiper-item>
+</swiper>
+
+
+
+  <view class="head-bg" ><text class="title2"decode="{{true}}" space="{{true}}"color="white">&nbsp;&nbsp;中心定位</text>
+  </view>
+  <view>
+<text class="content" decode="{{true}}" space="{{true}}">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;负责踹网的公关赞助，是与商家进行交流的桥梁。在这里你可以第一线去跟商家交流，更加直接的去接触电商，电竞等当前比较前沿的产业。
+
+</text></view>
+<view class="head-bg1" >
+<text class="title2"decode="{{true}}" space="{{true}}">&nbsp;&nbsp;工作制度</text>
+</view>
+<view>
+<text class="content" decode="{{true}}" space="{{true}}">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;赞助演练到实战谈判，给你一个模拟商业谈判精英的机会。零距离接触各种商业boss，在这里你可以第一线去跟商家交流，提高社交能力。
+</text>
+</view>
+
+<navigator></navigator>

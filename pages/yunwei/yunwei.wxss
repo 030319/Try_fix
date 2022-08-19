@@ -1,0 +1,129 @@
+/* page{
+  background-image:linear-gradient(180deg,#CCFFFF 0%,rgba(230, 204, 255, 0.521) 100%);
+  margin: 0px;
+  padding: 0px;
+  height: 200%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  
+}
+
+.widget__arrow{
+  margin: 2px;
+  height: 200px;
+  width: 355px;
+  font-weight: 100;
+  font-size: large;
+}
+.title{
+  text-align: center;
+  font-size: 25px;
+  font-weight: 1000;
+  color: 	#33bdf3;
+  margin: 5px;
+}
+
+.annotations{
+  text-align: center;
+  font-size: 10px;
+  color: 	#FF9933;
+  margin: 3px;
+  font-style: oblique;
+}
+
+.title2{
+  font-size: 17px;
+  font-weight: 600;
+  margin: 3px;
+  color: #080808;
+}
+
+.content{
+  margin: 2px;
+  font-weight: 200;
+}
+
+text{
+  margin: 5px;
+} */
+
+
+page{
+  background-image:linear-gradient(125deg,#a1f5ba,#47baf0,#f1b4c3);
+  margin: 0px;
+  padding: 0px;
+  height:100%;
+  width: 100%;
+  background-size:400% ;
+  animation: bganimation 8s infinite;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+}
+@keyframes bganimation{
+  0%{
+    background-position: 0% 50%;
+  }
+  50%{
+    background-position: 100% 50%;
+  }
+  100%{
+    background-position: 0% 50%;
+  }
+}
+.bt{
+  text-align: center;
+  margin: 30px 0 0 0;
+}
+
+.image{
+  margin: 10px 0px 3px 0px;
+  height: 200px;
+  width: 100%;
+  font-weight: 100;
+  font-size: large;
+}
+.zx{
+  margin: 10px 8px;
+}
+.title2{
+  font-size: 17px;
+  font-weight: 600;
+  margin: 3px;
+  color: #080808;
+}
+
+.content{
+  margin: 5px 30px 5px 30px;
+  font-weight: 200;
+}
+
+.text{
+  margin: 5px;
+}
+
+.title{
+  text-align: center;
+  font-size: 25px;
+  font-weight: 1000;
+  color:rgba(75, 72, 248, 0.719);
+  margin: 5px;
+}
+.zhuli{
+  display: flex;
+  height: 39px;
+  width: 100%;
+  justify-content: center;
+  font-size: 14px;
+  color: rgb(80, 80, 80);
+  
+}
+.zhuli .like{
+  font-size: 19px;
+}
+.zhuli .wz{
+  padding: 4px 0 0 2px;
+}
+.zhuli:hover{
+  color: rgba(243, 34, 34, 0.644);
+}

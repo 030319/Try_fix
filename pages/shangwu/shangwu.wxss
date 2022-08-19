@@ -1,0 +1,148 @@
+/* page{
+  background-image:linear-gradient(180deg,#CCFFFF 0%,rgba(230, 204, 255, 0.521) 100%);
+  margin: 0px;
+  padding: 0px;
+  height: 200%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  
+}
+
+.widget__arrow{
+  margin: 2px;
+  width: 355px;
+  font-weight: 100;
+  font-size: large;
+}
+.title{
+  text-align: center;
+  font-size: 25px;
+  font-weight: 1000;
+  color: 	#33bdf3;
+  margin: 5px;
+}
+
+.annotations{
+  text-align: center;
+  font-size: 10px;
+  color: 	#FF9933;
+  margin: 3px;
+  font-style: oblique;
+}
+
+.title2{
+  font-size: 17px;
+  font-weight: 600;
+  margin: 3px;
+  color: #080808;
+}
+
+.content{
+  margin: 2px;
+  font-weight: 200;
+}
+
+text{
+  margin: 5px;
+} */
+
+
+
+  
+/* background-image: url(https://636c-cloud1-9gvzes2n00ef99cf-1310335705.tcb.qcloud.la/background.jpg?sign=9a1f55e64e5ae729ba99ca78c2526865&t=1649553207); */
+ 
+/* background-size: 100% 100%; */
+
+
+   /* 有给定角度的线性渐变： */
+
+   page{
+    background-image: linear-gradient(180deg, #214288, #d5f1fd);
+  
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    
+  }
+  
+  /* .widget__arrow{
+    margin: 2px;
+    width: 315px;
+    font-weight: 100;
+    font-size: large;
+  } */
+  
+  
+  
+  .head-bg{
+    padding-right: 1ex;
+    padding-left: 1ex;
+    margin:9px;
+    background-image: url(https://636c-cloud1-9gvzes2n00ef99cf-1310335705.tcb.qcloud.la/P1.jpg?sign=5f47f51e36f870492bb5fac3ec079df0&t=1651071206);
+    background-size: 100% 100%;
+    border-radius:30px ;
+    margin-bottom: 15px;
+    height: 15%;
+  
+   
+  }
+  .head-bg1{
+    margin:9px;
+    padding-right: 1ex;
+    padding-left: 1ex;
+    background-image: url(https://636c-cloud1-9gvzes2n00ef99cf-1310335705.tcb.qcloud.la/P2.jpg?sign=c565f87fdca71622fab6907861b89bb8&t=1651071459);
+    background-size: 100% 100%;
+    border-radius:30px ;
+    margin-bottom: 15px;
+    height: 15%;
+   
+  }
+  
+  .annotations{
+    text-align: center;
+    font-size: 10px;
+    
+    margin: 3px;
+    font-style: oblique;
+  }
+  
+  .title2{
+    font-size: 20px;
+    
+    font-weight: 600;
+   
+    color:rgba(247, 247, 247, 0.568);
+    
+  }
+  
+  .content{
+   
+    margin: 5px;
+    font-weight: 200;
+    color: black;
+  }
+  
+  text{
+    margin: 5px;
+  }
+  
+  
+  view{
+    
+    background-color: beige();
+  }
+  
+  swiper{
+    width: 100%;
+    height:calc(100vw*651/1080);
+    
+  }
+  
+  image{
+    width: 100%;
+  }
+  
